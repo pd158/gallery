@@ -1,0 +1,13 @@
+body{
+
+	padding-top: 70px; 
+}
+
+.navbar-inverse{
+
+	background-color: #3C4C9E ;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+	background-color: #3C9E42;
+}
